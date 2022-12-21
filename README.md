@@ -1,10 +1,4 @@
-Example: 
 
-import UIKit
-import IntaroCards
-import SnapKit
-
-final class ViewController: UIViewController {
     
     private enum Constants {
         static var heightCard: CGFloat = 250
@@ -37,4 +31,3 @@ final class ViewController: UIViewController {
             self.view.backgroundColor = .systemFill
         }
     }
-}
